@@ -156,8 +156,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Parth Rastogi**
-
-BCA Student | Flutter Developer | API Integration Enthusiast
+ | Flutter Developer | API Integration Enthusiast
 
 ## 📜 License
 
